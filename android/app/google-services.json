@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "930736550735",
+    "project_id": "yahia-new-chat",
+    "storage_bucket": "yahia-new-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930736550735:android:b8ccbbfcc6f1e965facb3a",
+        "android_client_info": {
+          "package_name": "com.example.yahia_new_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930736550735-etjlvrhaph00lnn654saev4df6v1unb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB64ZfunSEfipRk9TPHlAFutsFgIsFRu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930736550735-etjlvrhaph00lnn654saev4df6v1unb3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
